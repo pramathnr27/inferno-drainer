@@ -90,6 +90,6 @@ detector: if eth_sign signature is invalid, drainer will try to prompt the norma
 -Uniswap position drainer 
 
 
-Price slightly negotiable :- 0.5 ETH
+Price slightly negotiable
 
 Contact:- https://t.me/bnb_drainer
